@@ -1,0 +1,32 @@
+[
+    {
+        "lng" : 170.50000,
+        "lat" : -45.86667,
+        "errors" : 10,
+        "threshold" : 5
+    },
+    {   
+        "lng" : 103.70722,
+        "lat" : 1.34472,
+        "errors" : 12,
+        "threshold" : 30
+    },
+    {
+        "lng" : 120.98417,
+        "lat" : 14.59889,
+        "errors" : 13,
+        "threshold" : 5
+    },
+    {
+        "lng" : 152.76667,
+        "lat" : -27.61667,
+        "errors" : 100,
+        "threshold" : 90
+    },
+    {
+        "lng" : 55.296249,
+        "lat" : 25.276987,
+        "errors" : 50,
+        "threshold" : 0
+    }
+]
