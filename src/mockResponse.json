@@ -2,13 +2,13 @@
     {
         "lng" : 170.50000,
         "lat" : -45.86667,
-        "errors" : 10,
+        "errors" : 0,
         "threshold" : 5
     },
     {   
         "lng" : 103.70722,
         "lat" : 1.34472,
-        "errors" : 12,
+        "errors" : 16,
         "threshold" : 30
     },
     {
@@ -18,8 +18,8 @@
         "threshold" : 5
     },
     {
-        "lng" : 152.76667,
-        "lat" : -27.61667,
+        "lng" : 151.209900,
+        "lat" : -33.865143,
         "errors" : 100,
         "threshold" : 90
     },
